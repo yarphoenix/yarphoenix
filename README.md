@@ -1,1 +1,1 @@
-<img width="1920" height="226" alt="yarphoenix-header-3" src="https://github.com/user-attachments/assets/5e59ea0d-6fde-418f-905d-c00ab9f27b65" />
+<img width="1920" height="501" alt="yarphoenix-gh-readme" src="https://github.com/user-attachments/assets/9a27af4c-de13-411f-84f8-349bc345a1e6" />
